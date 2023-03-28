@@ -207,3 +207,5 @@ This task is tideous with SQL as you would have to go through each column checki
 
 Data cleaning is a vital process in data analysis as that helps transform data into a format that can be analyzed to draw meaningful insights from data. Its always important to ensure that there no duplicates in your data, columns values that have the different data types unless otherwise stated and there no outliers in your data set.
 Cleaning this data was abit challenging for some columns but despite all that i sailed through using  SQL that provides a wide range of functions helpful in cleaning the data. 
+
+

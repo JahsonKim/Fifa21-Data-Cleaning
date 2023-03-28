@@ -153,6 +153,8 @@ WHERE Team_Contract LIKE '%Loan%'
 -- STEP 7 Removing unnecessary columns and validating data types
 
 ALTER TABLE #FifaData DROP COLUMN Team_Contract
+ALTER TABLE #FifaData DROP COLUMN Loan_Date_End
+
 
 -- Validating and cleaning columns
 
